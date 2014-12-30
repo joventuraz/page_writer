@@ -1,0 +1,7 @@
+name             'page_writer'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures page_writer'
+long_description 'Installs/Configures page_writer'
+version          '0.1.0'
