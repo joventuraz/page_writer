@@ -1,5 +1,6 @@
 action :create do
 	template new_resource.name do
+		cookbook 'page_writer'
 		source 'page.html.erb'
 		owner new_resource.owner
 		group new_resource.group
